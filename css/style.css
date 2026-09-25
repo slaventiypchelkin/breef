@@ -24,6 +24,7 @@ body{
   padding: 15px;
 }
 .item {
+  border: none;
   border-radius: 12px;
   padding: 12px 24px;
 
